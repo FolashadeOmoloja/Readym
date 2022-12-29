@@ -1,0 +1,24 @@
+.container {
+    width: 40.625rem;
+    border-radius: 20px;
+    box-shadow: 0.4rem 0.4rem 0.4rem 0.4rem#c4c4c4;
+}
+.form {
+    padding: 2rem;
+    margin: 5rem;
+    font: 'Open Sans';
+}
+.log {
+    color: black;
+    text-decoration: none;
+}
+.sign-up {
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    border: none;
+    background-color: #ff7f00;
+}
+.forgot {
+    text-decoration: none;
+    color: black;
+}

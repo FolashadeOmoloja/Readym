@@ -53,7 +53,7 @@ a:active{
 .navbar a{
    color: #3b3b3b;
 }
-.navbar a, footer a, .button-1,.button-2, .button-3, .button-4{
+.navbar a, footer a, .button-1,.button-2, .button-3, .button-4, .download-now, .section-dup p>a{
     transition: all 400ms ease;
     }
 .navbar a:hover, footer a:hover{
@@ -266,6 +266,7 @@ a.orange:hover{
     height: 40px;   
     background-color: #3C8D44;
     color: white;
+    cursor: default;
     text-align: center;
     text-transform: capitalize;
     box-sizing: border-box;

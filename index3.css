@@ -53,8 +53,16 @@ a:active{
 .navbar a{
    color: #3b3b3b;
 }
+.navbar a, footer a, .button-1,.button-2, .button-3, .button-4{
+    transition: all 400ms ease;
+    }
 .navbar a:hover, footer a:hover{
     color: #3C8D44;
+ }
+
+.button-1:hover{
+          background-color: transparent;
+          border: 2px solid #FF7F00;
  }
 main{
     width: 90%;
